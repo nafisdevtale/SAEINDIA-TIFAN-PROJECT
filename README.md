@@ -103,3 +103,11 @@ Images → Project photographs and documentation
 ### SAEINDIA TIFAN Team
 
 ![Team](Images/Team_At_Tifan.jpeg)
+
+## Key Engineering Challenges Solved
+
+- Synchronization of 7 NEMA17 stepper motors
+- Multi-axis pick-and-place motion control
+- Battery and solar power integration
+- Driver interfacing using TB6600 modules
+- Automated transplanting sequence development
