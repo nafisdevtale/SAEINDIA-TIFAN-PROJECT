@@ -74,7 +74,7 @@ Images → Project photographs and documentation
 
 ### Complete Machine
 
-![Complete Machine](Images/Complete_Machine.jpg)
+![Complete Machine](Images/Complete_Machine.jpeg)
 
 ### Electronics Control System
 
@@ -82,24 +82,24 @@ Images → Project photographs and documentation
 
 ### Arduino Control System
 
-![Arduino Control System](Images/Arduino_Control_System.jpg)
+![Arduino Control System](Images/Arduino_Control_System.jpeg)
 
 ### TB6600 Driver System
 
-![TB6600 Driver System](Images/TB6600_Driver_System.jpg)
+![TB6600 Driver System](Images/TB6600_Driver_System.jpeg)
 
 ### Custom PCB
 
-![Custom PCB](Images/Custom_PCB.jpg)
+![Custom PCB](Images/Custom_PCB.jpeg)
 
 ### Solar Integration
 
-![Solar Integration](Images/Solar_Panel_Integration.jpg)
+![Solar Integration](Images/Solar_Panel_Integration.jpeg)
 
 ### Competition Demonstration
 
-![Competition Demonstration](Images/Competition_Demo.jpg)
+![Competition Demonstration](Images/Competition_Demo.jpeg)
 
 ### SAEINDIA TIFAN Team
 
-![Team](Images/Team_At_Tifan.jpg)
+![Team](Images/Team_At_Tifan.jpeg)
