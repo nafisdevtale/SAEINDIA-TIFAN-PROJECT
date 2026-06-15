@@ -69,3 +69,37 @@ Electronics Team Lead 
 Arduino_Code → Control software
 
 Images → Project photographs and documentation
+
+## Project Gallery
+
+### Complete Machine
+
+![Complete Machine](Images/Complete_Machine.jpg)
+
+### Electronics Control System
+
+![Electronics Control System](Images/Electronics_Control_Box.jpg)
+
+### Arduino Control System
+
+![Arduino Control System](Images/Arduino_Control_System.jpg)
+
+### TB6600 Driver System
+
+![TB6600 Driver System](Images/TB6600_Driver_System.jpg)
+
+### Custom PCB
+
+![Custom PCB](Images/Custom_PCB.jpg)
+
+### Solar Integration
+
+![Solar Integration](Images/Solar_Panel_Integration.jpg)
+
+### Competition Demonstration
+
+![Competition Demonstration](Images/Competition_Demo.jpg)
+
+### SAEINDIA TIFAN Team
+
+![Team](Images/Team_At_Tifan.jpg)
